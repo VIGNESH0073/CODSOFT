@@ -1,3 +1,3 @@
-Calculator :  https://vignesh0073.github.io/CODSOFT/
+Calculator :  https://vignesh0073.github.io/CODSOFT/CALCULATOR
 Landing Page:
 Portfolio :
